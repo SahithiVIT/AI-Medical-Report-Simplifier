@@ -1,0 +1,7 @@
+streamlit
+google-genai
+pymupdf
+pytesseract
+Pillow
+requests
+pandas
